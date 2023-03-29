@@ -1,0 +1,29 @@
+.item{
+    position: relative;
+    border: 1px solid silver;
+    height: 380px;
+}
+.when{
+    position: absolute;
+    width: 80px;
+    height: 75px;
+}
+.when-date{
+    background-color: #1a8faa;
+}
+.when-time{
+    background-color: #304364;
+}
+.brd{
+    border: 1px solid silver;
+}
+.item1{
+    color: gray;
+}
+a{
+    text-decoration: none;
+}
+.icons{
+    font-size: 20px;
+    color: gray;
+}
